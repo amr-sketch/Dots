@@ -1,0 +1,79 @@
+
+(waybar:67632): Gtk-WARNING **: 07:38:55.946: Theme parsing error: gtk-dark.css:6664:15: Junk at end of value for padding
+[2025-07-01 07:38:55.965] [info] Using configuration file /home/mylo/.config/waybar/config.jsonc
+[2025-07-01 07:38:55.967] [info] Discovered appearance 'dark'
+[2025-07-01 07:38:55.967] [info] Using CSS file /home/mylo/.config/waybar/style.css
+[2025-07-01 07:38:55.973] [warning] 'swap-icon-label' must be a bool.
+[2025-07-01 07:38:55.975] [warning] module sway/window: Disabling module "sway/window", Socket path is empty
+[2025-07-01 07:38:56.008] [info] Bar configured (width: 1920, height: 35) for output: DP-1
+
+** (waybar:67632): WARNING **: 07:38:56.011: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-01 07:39:06.225] [info] Quitting.
+
+(waybar:71855): Gtk-WARNING **: 07:49:58.632: Theme parsing error: gtk-dark.css:6664:15: Junk at end of value for padding
+[2025-07-01 07:49:58.650] [info] Using configuration file /home/mylo/.config/waybar/config.jsonc
+[2025-07-01 07:49:58.651] [info] Discovered appearance 'dark'
+[2025-07-01 07:49:58.651] [info] Using CSS file /home/mylo/.config/waybar/style.css
+[2025-07-01 07:49:58.656] [warning] 'swap-icon-label' must be a bool.
+[2025-07-01 07:49:58.658] [warning] module sway/window: Disabling module "sway/window", Socket path is empty
+Fontconfig warning: using without calling FcInit()
+[2025-07-01 07:49:58.677] [info] Bar configured (width: 1920, height: 35) for output: DP-1
+
+** (waybar:71855): WARNING **: 07:49:58.679: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 07:50:06.316: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:02:03.804: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:11:05.476: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:11:05.476: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:11:07.587: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:11:07.587: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:12:12.443: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:12:12.443: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:12:36.370: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:12:36.371: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:13:16.071: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:13:16.071: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:13:40.359: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:13:40.359: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:15:33.953: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:15:33.953: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:16:04.134: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:16:04.134: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+
+** (waybar:71855): WARNING **: 08:16:26.917: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:71855): WARNING **: 08:16:26.917: Status Notifier Host with bus name ':1.1045' and object path '/StatusNotifierHost/0' is already registered
+Gdk-Message: 08:16:32.543: Error reading events from display: Connection reset by peer
+
+(waybar:3015): Gtk-WARNING **: 16:40:04.664: Theme parsing error: gtk-dark.css:6664:15: Junk at end of value for padding
+[2025-07-01 16:40:04.707] [info] Using configuration file /home/mylo/.config/waybar/config.jsonc
+[2025-07-01 16:40:04.709] [info] Discovered appearance 'dark'
+[2025-07-01 16:40:04.709] [info] Using CSS file /home/mylo/.config/waybar/style.css
+[2025-07-01 16:40:04.714] [info] Hyprland IPC starting
+[2025-07-01 16:40:04.715] [info] Loading persistent workspaces from Waybar config
+[2025-07-01 16:40:04.715] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-01 16:40:04.715] [warning] 'swap-icon-label' must be a bool.
+[2025-07-01 16:40:04.717] [warning] module sway/window: Disabling module "sway/window", Socket path is empty
+Fontconfig warning: using without calling FcInit()
+[2025-07-01 16:40:04.742] [info] Bar configured (width: 1920, height: 35) for output: DP-1
+
+** (waybar:3015): WARNING **: 16:40:04.744: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:3015): WARNING **: 16:40:54.065: Status Notifier Item with bus name ':1.18' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
